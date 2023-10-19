@@ -1,4 +1,4 @@
-This work © 2023 by Kiel Denny, Jamie Kellum, Justine Kellum, Allyce Van Scyoc, Dan Robers and Avery is licensed under Attribution-NonCommercial-NoDerivatives 4.0 International. To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-nd/4.0/.
+This work © 2023 by Kiel Denny, Jamie Kellum, Justine Kellum, Allyce Van Scyoc, Dan Robers and Avery Thompson is licensed under Attribution-NonCommercial-NoDerivatives 4.0 International. To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-nd/4.0/.
 
 # Deed
 

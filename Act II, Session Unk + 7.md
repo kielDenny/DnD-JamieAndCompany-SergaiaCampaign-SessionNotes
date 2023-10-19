@@ -2,6 +2,7 @@
 
  ## Recap
 
+_No recap as yet._
 
  ## Session Notes
  

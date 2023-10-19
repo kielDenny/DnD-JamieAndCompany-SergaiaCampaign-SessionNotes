@@ -1,16 +1,16 @@
-Session Unk + 7
+# Session Unk + 7
 
- #Recap 0:00:00 
+ ## Recap
  
- #Scene 0:12:05  Ext. Matia, The Gilded Ward - Morning
- 
-[0:13:19] We left the guided ward to the residential areas and the periphery of the city. As we left, the guards warned us about the Kobold incursion to the West. Sugi realized that the path we needed to take was first to the southwest then to the west. We decided that we would make our group look like traveling merchants, easy to be attacked to draw them out. We cast invisibility on Kirby the Bear, Drod summoned his staff and the Party walked down the road. 
+ ### Ext. Matia, The Gilded Ward - Morning
 
-[0:27:10] After some time Sugi noticed the sound of drums in the distance. After a moment an enormous green dragon flew over the ridge and landed in front of us. The dragon did not seem right, as if he was an illusion. Atrepos went forward to attack the ‘dragon’, went through the illusions and saw four Kobolds waving magical staves. They immediately bolted and Atrepos threw his daggers, killing one of them. Maxi cast Magic Missile which exploded a second one. Drod cast Hold Person on the two remaining Kobolds but it only succeeded on one. 
+We left the guided ward to the residential areas and the periphery of the city. As we left, the guards warned us about the Kobold incursion to the West. Sugi realized that the path we needed to take was first to the southwest then to the west. We decided that we would make our group look like traveling merchants, easy to be attacked to draw them out. We cast invisibility on Kirby the Bear, Drod summoned his staff and the Party walked down the road. 
 
-[0:35:59] Miz/Val picked up the stunned Kobold and ran off with it into the swamp. 
+After some time Sugi noticed the sound of drums in the distance. After a moment an enormous green dragon flew over the ridge and landed in front of us. The dragon did not seem right, as if he was an illusion. Atrepos went forward to attack the ‘dragon’, went through the illusions and saw four Kobolds waving magical staves. They immediately bolted and Atrepos threw his daggers, killing one of them. Maxi cast Magic Missile which exploded a second one. Drod cast Hold Person on the two remaining Kobolds but it only succeeded on one. 
 
-[0:37:23] Drod continued after the Kobold that got away and followed it to an outcropping of stones.
+Miz/Val picked up the stunned Kobold and ran off with it into the swamp.
+
+Drod continued after the Kobold that got away and followed it to an outcropping of stones.
 
 [0:38:19] Miz cast Sprit Guardian around themselves to protect them while they asked the Kobold questions. The Kobold was very confused about how Miz knew Greg. Mix terrified the Kobold and it was very reluctant to answer any questions. Eventually Miz realized that the Kobold’s name was Greg. Eventually Sugi and Maxi caught up to Miz and Miz asked for the two to protect the Kobold from the murderous Atrepos. He mentioned that ‘Boss Blitzen needed to collect all of the shinnies.’ 
 
